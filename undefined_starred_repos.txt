@@ -1,0 +1,5 @@
+Repo: Home. Stars: 6393.
+Repo: dotnet. Stars: 8666.
+Repo: corefx. Stars: 12542.
+Repo: coreclr. Stars: 8137.
+Repo: roslyn. Stars: 8145.
